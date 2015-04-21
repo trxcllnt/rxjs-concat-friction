@@ -1,0 +1,18 @@
+{
+  "name": "rxjs-concat-friction",
+  "version": "1.0.0",
+  "description": "An RxJS extension method that concats an Observable to emit events with a decreasing velocity magnitude based on the velocity of the last event of its source sequence and a given friction coefficient.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rx",
+    "rxjs",
+    "rx-js",
+    "velocity",
+    "friction"
+  ],
+  "author": "Paul Taylor <paul.e.taylor@me.com>",
+  "license": "MIT"
+}
